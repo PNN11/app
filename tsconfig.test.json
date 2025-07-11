@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "rootDir": ".",
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "preserve",
+        "skipLibCheck": true,
+        "paths": {
+            "services/*":["services/*"],
+            "utils/*":["utils/*"],
+            "components/*":["components/*"]
+        },
+        "outDir": "dist/test",
+        "declaration": false,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "inlineSourceMap": true
+    },
+    "include": [
+        "**/*.test.ts",
+        "**/*.test.tsx"
+    ],
+    "exclude": [
+        "node_modules",
+        "node_modules/zod/index.d.ts"
+    ]
+}

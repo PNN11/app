@@ -1,0 +1,8 @@
+[submodule "common-types"]
+	path = common-types
+	url = git@git.ldtc.space:arenavs/common-types.git
+	branch = main
+[submodule "shared-components"]
+	path = shared-components
+	url = git@git.ldtc.space:arenavs/shared-components.git
+	branch = main

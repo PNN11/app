@@ -1,0 +1,6 @@
+export const developersAddresses = [
+    '0x0Dc6bc1545A35644B8e082C76338ccF184703e55',
+    '0x534a9dde385f4a360071c83e9ced3025686de85d',
+    '0x325db088222F7f81d4450499bad58A5770323373',
+    '0xCF0cC8791283b2669327aE49BcFac61c9cfce27e',
+]

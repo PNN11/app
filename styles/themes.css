@@ -1,0 +1,30 @@
+:root {
+    --theme-cta: 193, 18, 69;
+    --theme-cta-100: 255, 71, 116;
+    --theme-cta-600: 156, 13, 55;
+    --theme-cta-700: 42, 15, 23;
+    --theme-success: 41, 230, 112;
+    --theme-success-100: 96, 231, 146;
+    --theme-warning: 255, 153, 0;
+    --theme-error: 255, 70, 70;
+    --theme-link: 255, 83, 133;
+    --theme-bg: 0, 0, 0;
+    --theme-base-100: 255, 255, 255;
+    --theme-base-150: 221, 217, 223;
+    --theme-base-200: 195, 203, 218;
+    --theme-base-300: 151, 162, 180;
+    --theme-base-400: 120, 127, 139;
+    --theme-base-500: 101, 104, 109;
+    --theme-base-600: 60, 60, 60;
+    --theme-base-650: 52, 52, 52;
+    --theme-base-700: 40, 40, 40;
+    --theme-base-800: 25, 25, 25;
+    --theme-rarity-legendary: 187, 54, 134;
+    --theme-rarity-rare: 17, 127, 220;
+    --theme-rarity-epic: 129, 53, 250;
+    --theme-rarity-uncommon: 70, 113, 138;
+    --theme-rarity-common: 112, 124, 160;
+    --theme-discord: 88, 105, 235;
+    --theme-twitter: 0, 172, 236;
+    --theme-subheader: 68, 0, 130;
+}
